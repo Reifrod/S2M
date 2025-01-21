@@ -1,6 +1,8 @@
 # S2M
 This project is a Telegram bot that generates music from a text script using the MusicGen model and the Qwen language model. The presentation of this project can be viewed [here](https://docs.google.com/presentation/d/1I49EQbilwWPcnc3723yLJTPR3WqFVosJ8ViBYPTXq-0/edit)
 
+Link to telegram bot: [@project_s2m_bot](https://t.me/project_s2m_bot)
+
 ## Team members
 
 - [Artem Sebalo](https://github.com/artemcd)
@@ -81,7 +83,7 @@ The `SFT.ipynb` file contains code for fine-tuning the MusicGen model on your da
 ```
 S2M/
 ├── bot.py # Main bot script
-├── SFT.ipynb # Laptop for training the model
+├── SFT.ipynb # Notebook for training the model
 ├── requirements.txt # List of dependencies
 └── README.md # Documentation
 ```
